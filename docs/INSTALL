@@ -1,0 +1,5 @@
+To compile SudokuSolver:
+
+$ javac SudokuSolver.java
+
+Refer to README.md for usage instructions.
