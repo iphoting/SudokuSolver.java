@@ -1,4 +1,5 @@
 // Author: Ronald Ip
+// Version: 0.1
 
 import java.util.Scanner;
 
