@@ -21,13 +21,11 @@ This solver takes in 81 arguments, one for each cell, separated by a space, as t
 ## TODO
 There are plans to implement the following:
 
-1. Improve the current brute-force, backtracking (BFBT) algorithm by iterating through a list of valid numbers, rather than just blindly going through 1–9.
+1. Improve the current brute-force, backtracking (BFBT) algorithm by iterating through a list of valid numbers in random order, rather than just blindly going through 1–9.
 2. Supersede the current BFBT algorithm with [Dancing Links (DLX)][1], keeping BFBT as an option.
 
-## License
-FreeBSD license. Refer to LICENSE.
+## Contributions
 
-## Author
-Ronald Ip, <http://about.me/ronaldip>.
+All suggestions on improving efficiency, or coding improvements, are welcome via pull requests.
 
 [1]: http://en.wikipedia.org/wiki/Dancing_Links
